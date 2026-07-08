@@ -78,11 +78,20 @@ I am a passionate **Computer Science and Engineering Graduate (2025)** focused o
 
 ### 📊 My GitHub Status
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishk6363&show_icons=true&theme=tokyonight&count_private=true" alt="Satish's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishk6363&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=satishk6363&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <sub>Built with precision. Powered by Java & Coffee. ☕</sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=satishk6363&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satishk6363&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub><b>☕ Built with consistency • Learning Java every day 🚀</b></sub>
 </p>
