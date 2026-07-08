@@ -85,11 +85,7 @@ I am a passionate **Computer Science and Engineering Graduate (2025)** focused o
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satishk6363&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satishk6363&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=satishk6363&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
